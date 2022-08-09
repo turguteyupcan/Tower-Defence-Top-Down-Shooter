@@ -4,6 +4,9 @@ This game is a my protoyping project with the mixture of top down shooter and to
 
 The game is played with two players. One player is the defender that places the spawners on the map, other one is attacker who tries to beat the level monsters designed by first player and tries to reach exit line.
 
+**Directly Play The Game Here:** https://turguteyupcan.itch.io/tower-defence
+#
+
 **How to Open Source File and Reach Codes (Events)**
 
 * Download the .c3p file.
